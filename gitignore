@@ -1,0 +1,5 @@
+# Nunca suba estes arquivos — contêm segredos ou são gerados localmente
+.env
+cert.pem
+key.pem
+node_modules/

@@ -1,0 +1,19 @@
+{
+  "name": "jaqueta-filho-backend",
+  "version": "1.0.0",
+  "description": "Backend que conecta o app Jaqueta Filho (celular) com a API do Google Gemini",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "selfsigned": "^5.5.0"
+  }
+}
